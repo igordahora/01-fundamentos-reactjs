@@ -14,7 +14,6 @@ export function Sidebar() {
         <img
           className={styles.avatar}
           src='https://avatars.githubusercontent.com/u/4870136?v=4'
-          alt=''
         />
 
         <strong>Igor da Hora</strong>
