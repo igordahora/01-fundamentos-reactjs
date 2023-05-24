@@ -14,14 +14,16 @@ export function App() {
         <Sidebar />
 
         <main>
-          <Post
+          <Post />
+          <Post />
+          {/* <Post
             author="Diego Fernandes"
             content="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse obcaecati a reiciendis soluta, ea molestias. Magni molestias, optio eos similique cum delectus accusantium ipsa, suscipit, consequuntur dignissimos minima totam? Voluptatum!"
           />
           <Post
             author="Gabliel Buzzi"
             content="Um novo post muito legal"
-          />
+          /> */}
         </main>
 
       </div>
